@@ -1,2 +1,1 @@
-# CPU-Simulation-
-CPU simulation in Operating System 
+# CPU-simulation and error handling
